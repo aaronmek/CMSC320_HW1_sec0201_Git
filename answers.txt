@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: We might use Git to track changes made to a project, restore earlier versions, work on separate features through branches, and collaborate with other people without overwriting their work.
+
+
